@@ -1,0 +1,2952 @@
+fileFormatVersion: 2
+guid: 0aaac605a377420438e749e0f00662b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2829165836549150052
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_0
+  - first:
+      213: 3144332449417117729
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_1
+  - first:
+      213: 7341949820042770046
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_2
+  - first:
+      213: -316461970392227444
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_3
+  - first:
+      213: 5789618616263160146
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_4
+  - first:
+      213: 4375370158081220965
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_5
+  - first:
+      213: 8275218827772601536
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_6
+  - first:
+      213: 7014346917953212970
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_7
+  - first:
+      213: 2854143682794789397
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_8
+  - first:
+      213: 4319226916115733135
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_9
+  - first:
+      213: -6765069622994705913
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_10
+  - first:
+      213: -9172991306251612832
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_11
+  - first:
+      213: -9020685650132107576
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_12
+  - first:
+      213: 3527251898897592223
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_13
+  - first:
+      213: 542404947387253221
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_14
+  - first:
+      213: -4852899434226520852
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_15
+  - first:
+      213: -6398167052578102619
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_16
+  - first:
+      213: 3463543820863243294
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_17
+  - first:
+      213: 5643713122740105727
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_18
+  - first:
+      213: -5553115478527869104
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_19
+  - first:
+      213: 6366540051821448949
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_20
+  - first:
+      213: 7645342953745792493
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_21
+  - first:
+      213: 6182695597567802948
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_22
+  - first:
+      213: 6926180215873166791
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_23
+  - first:
+      213: 5623923620507409699
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_24
+  - first:
+      213: 6233882182442880436
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_25
+  - first:
+      213: 3231998821587527694
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_26
+  - first:
+      213: 5829391033875559877
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_27
+  - first:
+      213: 5371277680261602481
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_28
+  - first:
+      213: 7076919567092519796
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_29
+  - first:
+      213: -7039174062536917315
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_30
+  - first:
+      213: 155105825999180579
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_31
+  - first:
+      213: -5089566216473520498
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_69
+  - first:
+      213: 792145127114592558
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_70
+  - first:
+      213: -5289016076440721849
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_86
+  - first:
+      213: 2399438915678101098
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_87
+  - first:
+      213: 3285952616164876664
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_88
+  - first:
+      213: -7218397084379776303
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_89
+  - first:
+      213: 4200188806521830334
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_90
+  - first:
+      213: -5084414566155668062
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_91
+  - first:
+      213: -4115544787089092575
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_92
+  - first:
+      213: -4095198687316546434
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_93
+  - first:
+      213: -5784797485245949578
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_94
+  - first:
+      213: 848769215563960649
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_95
+  - first:
+      213: 7883752653629690097
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_96
+  - first:
+      213: 9174575247699772211
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_97
+  - first:
+      213: 4736208606477194580
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_98
+  - first:
+      213: -510707500746293503
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_110
+  - first:
+      213: 5948533161127391035
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_132
+  - first:
+      213: 1102701955664867552
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_133
+  - first:
+      213: 1548945469926801076
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_134
+  - first:
+      213: 8703427624106055430
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_135
+  - first:
+      213: -4202104997411978755
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_136
+  - first:
+      213: -6213495467644895830
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_137
+  - first:
+      213: -5843622428767721592
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_138
+  - first:
+      213: 2623212809287765566
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_139
+  - first:
+      213: 5093716597474919989
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_140
+  - first:
+      213: 8555403110527680947
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_141
+  - first:
+      213: -671336951164729453
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_142
+  - first:
+      213: 2988940410120818331
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_143
+  - first:
+      213: -620617838425367413
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_144
+  - first:
+      213: -2589755661704567029
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_145
+  - first:
+      213: -4275538290608645961
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_146
+  - first:
+      213: 8214408185170513981
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_147
+  - first:
+      213: 9069454146589745401
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_148
+  - first:
+      213: 7262085704393050584
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_149
+  - first:
+      213: -462286659371135030
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_150
+  - first:
+      213: -7236349618294155885
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_151
+  - first:
+      213: 3407839874361855853
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_152
+  - first:
+      213: -7068041694832957768
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_153
+  - first:
+      213: -4464125586038918411
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_154
+  - first:
+      213: -6632198466289996277
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_155
+  - first:
+      213: -2762231811890598011
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_156
+  - first:
+      213: 6147173659555957964
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_157
+  - first:
+      213: -281918511826565661
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_158
+  - first:
+      213: 1660350689450630633
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_159
+  - first:
+      213: 2414059403386678418
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_160
+  - first:
+      213: 2786666397010587717
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_161
+  - first:
+      213: -1006981120379024401
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_162
+  - first:
+      213: -7808002582403084559
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_163
+  - first:
+      213: -4938140807724340864
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_164
+  - first:
+      213: -5827711676709674748
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_165
+  - first:
+      213: -7536558575621306933
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_166
+  - first:
+      213: -5006394401050689112
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_167
+  - first:
+      213: -5794966233222867540
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_168
+  - first:
+      213: -8248285426369005741
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_169
+  - first:
+      213: 5547055671376059731
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_170
+  - first:
+      213: -4490870108246849250
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_171
+  - first:
+      213: 1234133210152054260
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_172
+  - first:
+      213: -3497064550993624961
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_173
+  - first:
+      213: 825971909579978667
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_174
+  - first:
+      213: 4872801123323050671
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_175
+  - first:
+      213: 4202151326003248442
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_176
+  - first:
+      213: 2096710335217229038
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_177
+  - first:
+      213: -5282634901788700560
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_178
+  - first:
+      213: -2110307635156716750
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_179
+  - first:
+      213: 2246034805732116609
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_180
+  - first:
+      213: -6760007506647889982
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_181
+  - first:
+      213: 2759756099219940298
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_182
+  - first:
+      213: -3927767401689316241
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_183
+  - first:
+      213: 4659711672761445343
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_184
+  - first:
+      213: -3011006984385583400
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_185
+  - first:
+      213: -2566090744145427571
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_186
+  - first:
+      213: -868894735939964464
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_187
+  - first:
+      213: -8643600310418259258
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_188
+  - first:
+      213: -812191728603829044
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_189
+  - first:
+      213: -5159172335721748584
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_190
+  - first:
+      213: -1541837733820720815
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_191
+  - first:
+      213: -4349933199809087868
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_192
+  - first:
+      213: -5407229236906408033
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_193
+  - first:
+      213: -1624980854874378303
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_194
+  - first:
+      213: 9219655704818138045
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_195
+  - first:
+      213: -8572824646771209272
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_196
+  - first:
+      213: 684184312441188247
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_197
+  - first:
+      213: 8421516003075468523
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_198
+  - first:
+      213: -3270829432830432253
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_199
+  - first:
+      213: -4278635725137662338
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_200
+  - first:
+      213: 8813462639868909270
+    second: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_201
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 35
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 859
+        width: 44
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465de2ab657334720800000000000000
+      internalID: 2829165836549150052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 859
+        width: 45
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120cd3f04b9e2ab20800000000000000
+      internalID: 3144332449417117729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 859
+        width: 45
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7674664678d3e560800000000000000
+      internalID: 7341949820042770046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_3
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 859
+        width: 46
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81e9ddb383bb9bf0800000000000000
+      internalID: -316461970392227444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_4
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 859
+        width: 47
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251ba5fe47bd85050800000000000000
+      internalID: 5789618616263160146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_5
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 859
+        width: 45
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561a6412aff68bc30800000000000000
+      internalID: 4375370158081220965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_6
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 854
+        width: 57
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4a20c0eab77d270800000000000000
+      internalID: 8275218827772601536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_7
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 856
+        width: 70
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2215f7bb57f75160800000000000000
+      internalID: 7014346917953212970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_8
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 857
+        width: 77
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a98eebe84fb9720800000000000000
+      internalID: 2854143682794789397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_9
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 856
+        width: 70
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a5267fef9f0fb30800000000000000
+      internalID: 4319226916115733135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_10
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 855
+        width: 52
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7026d905505ad12a0800000000000000
+      internalID: -6765069622994705913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_11
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 854
+        width: 51
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d402fe10df2b080800000000000000
+      internalID: -9172991306251612832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_12
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 854
+        width: 56
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce7961e13610d280800000000000000
+      internalID: -9020685650132107576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_13
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 886
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9fec13f9e053f030800000000000000
+      internalID: 3527251898897592223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_14
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 835
+        width: 44
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e18e650d62078700800000000000000
+      internalID: 542404947387253221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_15
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 836
+        width: 44
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceceb342da907acb0800000000000000
+      internalID: -4852899434226520852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_16
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 835
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a26971f6f42537a0800000000000000
+      internalID: -6398167052578102619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_17
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 833
+        width: 44
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e148d8221caf01030800000000000000
+      internalID: 3463543820863243294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 754
+        width: 44
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff17227fe2f725e40800000000000000
+      internalID: 5643713122740105727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 754
+        width: 50
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f7f99d4ee5fe2b0800000000000000
+      internalID: -5553115478527869104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_20
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 754
+        width: 68
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe4d1d127e7a5850800000000000000
+      internalID: 6366540051821448949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_21
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 754
+        width: 50
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dedbd00e8e6b91a60800000000000000
+      internalID: 7645342953745792493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_22
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 754
+        width: 44
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e766f73e85dc550800000000000000
+      internalID: 6182695597567802948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_23
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 752
+        width: 44
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd5579b53cbe1060800000000000000
+      internalID: 6926180215873166791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_24
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 753
+        width: 49
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32dd54c6cb03c0e40800000000000000
+      internalID: 5623923620507409699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_25
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 752
+        width: 68
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd052001d2338650800000000000000
+      internalID: 6233882182442880436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 752
+        width: 61
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08a43bedcd5adc20800000000000000
+      internalID: 3231998821587527694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_27
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 752
+        width: 52
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5fff6824826e050800000000000000
+      internalID: 5829391033875559877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_28
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 752
+        width: 68
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc1af9879c9a8a40800000000000000
+      internalID: 5371277680261602481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_29
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 752
+        width: 54
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4739f84e9d4463260800000000000000
+      internalID: 7076919567092519796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_30
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 752
+        width: 44
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbef75a3c74df4e90800000000000000
+      internalID: -7039174062536917315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_31
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 837
+        width: 44
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323564d4deb072200800000000000000
+      internalID: 155105825999180579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_69
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 645
+        width: 44
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e865446ed7a3e59b0800000000000000
+      internalID: -5089566216473520498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_70
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 644
+        width: 44
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21d830dbc34efa00800000000000000
+      internalID: 792145127114592558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 646
+        width: 46
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746ab60a6e3a996b0800000000000000
+      internalID: -5289016076440721849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_87
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 645
+        width: 44
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6edd352bf48c4120800000000000000
+      internalID: 2399438915678101098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_88
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 645
+        width: 45
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871e543ae7c0a9d20800000000000000
+      internalID: 3285952616164876664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_89
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 644
+        width: 44
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1daf3d1b81a13db90800000000000000
+      internalID: -7218397084379776303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_90
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 645
+        width: 44
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb3e4a47711a4a30800000000000000
+      internalID: 4200188806521830334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_91
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 645
+        width: 44
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a53875f3e78079b0800000000000000
+      internalID: -5084414566155668062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_92
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 646
+        width: 44
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120185c32d5a2e6c0800000000000000
+      internalID: -4115544787089092575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_93
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 644
+        width: 52
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ce9ddbd7eea27c0800000000000000
+      internalID: -4095198687316546434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_94
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 644
+        width: 84
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679975a165548bfa0800000000000000
+      internalID: -5784797485245949578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_95
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 644
+        width: 64
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9411af5ca1f67cb00800000000000000
+      internalID: 848769215563960649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_96
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 643
+        width: 51
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f014a0c447b86d60800000000000000
+      internalID: 7883752653629690097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_97
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 641
+        width: 44
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3338c3c2493a25f70800000000000000
+      internalID: 9174575247699772211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_98
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 641
+        width: 44
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455983352a46ab140800000000000000
+      internalID: 4736208606477194580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_110
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 719
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10fb3e1eb3a99e8f0800000000000000
+      internalID: -510707500746293503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 530
+        width: 44
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f21a3b46f6d8250800000000000000
+      internalID: 5948533161127391035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_133
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 530
+        width: 51
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0788816959d4f00800000000000000
+      internalID: 1102701955664867552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_134
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 530
+        width: 66
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4beff6fb2b5fe7510800000000000000
+      internalID: 1548945469926801076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_135
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 530
+        width: 50
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607d927bf49c8c870800000000000000
+      internalID: 8703427624106055430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_136
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 530
+        width: 44
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df18d50c4cf1fa5c0800000000000000
+      internalID: -4202104997411978755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_137
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 530
+        width: 44
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aadb68deaca35c9a0800000000000000
+      internalID: -6213495467644895830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_138
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 530
+        width: 50
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8876bc3ac5847eea0800000000000000
+      internalID: -5843622428767721592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_139
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 530
+        width: 64
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e0ad3d626876420800000000000000
+      internalID: 2623212809287765566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_140
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 529
+        width: 57
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536010bf14480b640800000000000000
+      internalID: 5093716597474919989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_141
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 529
+        width: 56
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b14641fcc5eab670800000000000000
+      internalID: 8555403110527680947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_142
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 529
+        width: 66
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3978b3d899eeea6f0800000000000000
+      internalID: -671336951164729453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_143
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 529
+        width: 49
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ecf088779da7920800000000000000
+      internalID: 2988940410120818331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_144
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 548
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c92673d5f1367f0800000000000000
+      internalID: -620617838425367413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_145
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 547
+        width: 69
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07ea0162f65f0cd0800000000000000
+      internalID: -2589755661704567029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_146
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 545
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8d0b4d39c3aa4c0800000000000000
+      internalID: -4275538290608645961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_147
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 424
+        width: 46
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30562df8b07ff170800000000000000
+      internalID: 8214408185170513981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_148
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 460
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0ec2a8e7c2ddd70800000000000000
+      internalID: 9069454146589745401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_149
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 472
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d94ac2d87c18c460800000000000000
+      internalID: 7262085704393050584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_150
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 469
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf08cb8bb0a599f0800000000000000
+      internalID: -462286659371135030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_151
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 457
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3951b0bac52539b90800000000000000
+      internalID: -7236349618294155885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_152
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 457
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f00ca6f441b4f20800000000000000
+      internalID: 3407839874361855853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_153
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 463
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6e4d1d68549ed90800000000000000
+      internalID: -7068041694832957768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_154
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 461
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2fa637e6d3c02c0800000000000000
+      internalID: -4464125586038918411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_155
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 418
+        width: 42
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ee4e042a2b5f3a0800000000000000
+      internalID: -6632198466289996277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_156
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 415
+        width: 61
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f2af05dc49aa9d0800000000000000
+      internalID: -2762231811890598011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_157
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 417
+        width: 42
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc887ecfd52f4550800000000000000
+      internalID: 6147173659555957964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_158
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 444
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e588fe6b9c661cf0800000000000000
+      internalID: -281918511826565661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_159
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 408
+        width: 44
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed9747b720ca0710800000000000000
+      internalID: 1660350689450630633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_160
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 409
+        width: 51
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ced85bc36708120800000000000000
+      internalID: 2414059403386678418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_161
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 410
+        width: 57
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540755dd25a3ca620800000000000000
+      internalID: 2786666397010587717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_162
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 409
+        width: 45
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb8848910c7602f0800000000000000
+      internalID: -1006981120379024401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_163
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 410
+        width: 57
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe0886150764a390800000000000000
+      internalID: -7808002582403084559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_164
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 408
+        width: 44
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089eab84913387bb0800000000000000
+      internalID: -4938140807724340864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_165
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 338
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401e2584b1fcf1fa0800000000000000
+      internalID: -5827711676709674748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_166
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 377
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc50b27e7e3c86790800000000000000
+      internalID: -7536558575621306933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_167
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 409
+        width: 44
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a18ed731d6b58ab0800000000000000
+      internalID: -5006394401050689112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_168
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 411
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca51e57f9e4249fa0800000000000000
+      internalID: -5794966233222867540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_169
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 338
+        width: 75
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3577e332b14388d80800000000000000
+      internalID: -8248285426369005741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_170
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 332
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d9fa95eb91bfc40800000000000000
+      internalID: 5547055671376059731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_171
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 326
+        width: 44
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19c6812e693da1c0800000000000000
+      internalID: -4490870108246849250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_172
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 315
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd20acad95802110800000000000000
+      internalID: 1234133210152054260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_173
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 312
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f700a61b15ee77fc0800000000000000
+      internalID: -3497064550993624961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_174
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 314
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba737f85311767b00800000000000000
+      internalID: 825971909579978667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_175
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 305
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa7bc0fdcaaf9340800000000000000
+      internalID: 4872801123323050671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_176
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 305
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d3cd6fd5a015a30800000000000000
+      internalID: 4202151326003248442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_177
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 304
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec5387e0f2091d10800000000000000
+      internalID: 2096710335217229038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_178
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 305
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070ddc0ab8f40b6b0800000000000000
+      internalID: -5282634901788700560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_179
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 303
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23370bff26ea6b2e0800000000000000
+      internalID: -2110307635156716750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_180
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 328
+        width: 44
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18883dc71c48b2f10800000000000000
+      internalID: 2246034805732116609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_181
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 241
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7474f1df0af22a0800000000000000
+      internalID: -6760007506647889982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_182
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 236
+        width: 65
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3e8b8ec8f9c4620800000000000000
+      internalID: 2759756099219940298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_183
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 246
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6403fdbb54cd79c0800000000000000
+      internalID: -3927767401689316241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_184
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 213
+        width: 53
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdbefa2041f9aa040800000000000000
+      internalID: 4659711672761445343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_185
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 199
+        width: 45
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d62a77c911c636d0800000000000000
+      internalID: -3011006984385583400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_186
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 200
+        width: 51
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d834bcd501a636cd0800000000000000
+      internalID: -2566090744145427571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_187
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 200
+        width: 44
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1771d57d011f3f0800000000000000
+      internalID: -868894735939964464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_188
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 193
+        width: 44
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2401d3053cb0880800000000000000
+      internalID: -8643600310418259258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_189
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 194
+        width: 45
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccee0f0de38ab4f0800000000000000
+      internalID: -812191728603829044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_190
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 194
+        width: 44
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897684a5810f668b0800000000000000
+      internalID: -5159172335721748584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_191
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 86
+        width: 39
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159925600ca4a9ae0800000000000000
+      internalID: -1541837733820720815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_192
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 85
+        width: 43
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48673bc3dcee1a3c0800000000000000
+      internalID: -4349933199809087868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_193
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 84
+        width: 46
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97461368a9a5f4b0800000000000000
+      internalID: -5407229236906408033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_194
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 84
+        width: 44
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfe662a588e279e0800000000000000
+      internalID: -1624980854874378303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_195
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 83
+        width: 41
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbbb615040cc2ff70800000000000000
+      internalID: 9219655704818138045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_196
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 83
+        width: 40
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb0d7f8765370980800000000000000
+      internalID: -8572824646771209272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_197
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 83
+        width: 40
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79fa3f7d106be7900800000000000000
+      internalID: 684184312441188247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_198
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 79
+        width: 43
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beca4998f2c3fd470800000000000000
+      internalID: 8421516003075468523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_199
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 79
+        width: 56
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30cef3fd5fdab92d0800000000000000
+      internalID: -3270829432830432253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_200
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 77
+        width: 53
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7eafd72a7b3f94c0800000000000000
+      internalID: -4278635725137662338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_ultimate-mortal-kombat-3-sub-zero-reptile-mortal-kombat-4_201
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 76
+        width: 44
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d610924395bf4a70800000000000000
+      internalID: 8813462639868909270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
